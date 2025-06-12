@@ -1,0 +1,38 @@
+/* Estilos para el formulario */
+form {
+  background-color: #993366;
+  color: #333;
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 200px; /* Ajusta el ancho según tus necesidades */
+  margin: 20px auto; /* Centra el formulario en la página */
+}
+
+
+/* Estilos para el botón */
+input[type="submit"] {
+  background-color: #33ffcc;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+
+/* Estilos para los labels */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+fieldset {
+  padding: 20px;
+  border: none;
+}
+
+legend {
+  font-weight: bold;
+}
+
